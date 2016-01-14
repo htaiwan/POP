@@ -1,6 +1,6 @@
 ## Overview
 
-**POP**, The best way of Learing protocol oriented programming in swift is finding amazing sample code written by excellent programmers. So I collect some interesting git sources here.
+**POP**, The best way of Learing protocol oriented programming in swift is finding amazing sample code written by excellent programmers. So I collect some interesting github sources here.
 
 #### Sources
 
