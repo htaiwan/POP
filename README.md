@@ -8,5 +8,7 @@
 
 2. [UIGestureRecognizerProtocols](https://github.com/cconeil/Standard-Template-Protocols) - Essential protocols for your every day iOS needs
 
+3. [AnyObjectConvertible](https://github.com/tarunon/AnyObjectConvertible) - Convert your own struct/enum to AnyObject easily.
+
 
 
